@@ -6,13 +6,13 @@ FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to t
 
 Their [official API and documentation server](https://foaas.com/) is down. It seems like their [official github repo](https://github.com/tomdionysus/foaas) is no longer maintained.
 
-Therefore I deployed my own server: https://fuckoffasaservice.azurewebsites.net/ . Click it to see the documentation of all endpoints.
+Therefore I deployed my own server: https://foaas-hoaxd.ondigitalocean.app/ . Click it to see the documentation of all endpoints.
 
 ## Random Fuck-off Generator
 
 I added a random fuck-off generator service, with an endpoint of `/random/:name/:from`. 
 
-For example, if you wanna fuck-off your friend called Jack and you are called Jill, send him https://fuckoffasaservice.azurewebsites.net/random/Jack/Jill .
+For example, if you wanna fuck-off your friend called Jack and you are called Jill, send him https://foaas-hoaxd.ondigitalocean.app/random/Jack/Jill .
 It will generate different fuck-off message everytime refreshed.
 
 Play with it.
