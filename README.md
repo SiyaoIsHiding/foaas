@@ -6,7 +6,7 @@ FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to t
 
 Their [official API and documentation server](https://foaas.com/) is down. It seems like their [official github repo](https://github.com/tomdionysus/foaas) is no longer maintained.
 
-Therefore I deployed my own server: https://fuckoffasaservice.azurewebsites.net/ . Click it to see the documentation of all endpoints.
+Therefore I deployed my own server: https://foaas-hoaxd.ondigitalocean.app/ . Click it to see the documentation of all endpoints.
 
 ## Random Fuck-off Generator
 
