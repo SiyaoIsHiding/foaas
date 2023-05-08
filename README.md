@@ -5,7 +5,7 @@ FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to t
 I only use this API to play with my boyfriend and this API should not be used to bully or harass anyone!!
 If you find someone is abusing this API, please tell me and I will shut it down immediately.
 
-Their [official API and documentation server](https://foaas.com/) is down. It seems like their [official github repo](https://github.com/tomdionysus/foaas) is no longer maintained.
+Their [official API and documentation server](https://foaas.com/) is down. It seems like their [official github repo](https://github.com/tomdionysus/foaas) is no longer maintained. Updated May 7, 2023: It seems like their server is back!
 
 Therefore I deployed my own server: https://foaas-hoaxd.ondigitalocean.app/ . Click it to see the documentation of all endpoints.
 
